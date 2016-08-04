@@ -1,0 +1,30 @@
+_repo: Out-of-the-Triangle--A-Story-of-the-Far-East_3660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bamford, Mary E. (Mary Ellen)
+    alias: Bamford, Mary Ellen
+    gutenberg_agent_id: '1254'
+    url: http://www.gutenberg.org/2009/agents/1254
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Ellen_Bamford
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity, Conversion to -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Out of the triangle -- The squash of the Esvidos -- The verse Martin
+  read -- By the way -- At Cousin Harriet's -- Comale's revenge -- At the panaderia
+  -- Miss Stratton's paper -- An honest day's work -- Timoteo -- The victory of Quang
+  Po -- The new igloo.
+title: 'Out of the Triangle: A Story of the Far East'
+url: http://www.gutenberg.org/ebooks/3660
